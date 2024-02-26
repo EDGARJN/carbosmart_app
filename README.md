@@ -102,5 +102,5 @@ Carbosmart is open-source software licensed under the MIT License. See the LICEN
 - **EDGAR JN** - Mobile App Dev
 - **MGASA LUCAS** - Backend and ML/AI Engineer
 - **DANFORD** - Carbon based Data Collector and Analysis
-- **JUMA** - Carbon based Data Collector and Analysis
+- **JUMA RUBEA** - Carbon based Data Collector and Analysis
 - **BEATRICE** - Project Manager and Business Analyst
